@@ -9,8 +9,14 @@
 
 如果你想要联系我，可以给我发邮件哦，我的邮箱是[neko@cneko.org](mailto:neko@cneko.org)，当然这个也可以[meow@cneko.org](mailto:meow@cneko.org)，实在不行也可以发到[minecrafthetun@outlook.com](mailto:minecrafthetun@outlook.com)
 
+当然啦，你也可以直接加我的discord好友喵，咱不会拒绝的呢，咱是`crystal_neko`哦
+
+咱的常用语言是Java和Kotlin（Kotlin超赞的），偶尔呢会也写点js和python喵
+
+猫猫有点健忘，所以如果咱答应了要做某个东西请经常来discord上催（除非猫猫实在太忙了），不然咱很容易忘记的喵
+
 好啦，就这些啦，你可以在下面看看我在Github上的一些成就
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CSneko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![CrystalNeko's github stats](https://github-readme-stats.vercel.app/api?username=CSneko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSneko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
