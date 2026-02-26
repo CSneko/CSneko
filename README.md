@@ -20,10 +20,6 @@
 咱也会玩游戏呢，不过技术超级菜的喵
 
 
-好啦，就这些啦，你可以在下面看看我在Github上的一些成就
-[![CrystalNeko's github stats](https://github-readme-stats.vercel.app/api?username=CSneko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+好啦，就这些啦.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSneko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![CrystalNeko&ViewCounter](https://api.likepoems.com/counter/get/@CSneko)
+![CrystalNeko&ViewCounter](https://c.cneko.org/c/@CrystalNeko?p=github)
